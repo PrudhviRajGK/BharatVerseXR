@@ -119,8 +119,7 @@ Topic Input → AI Script Generation → Visual Creation → Audio Synthesis →
 
 ### **Scalability**
 - **36+ States Coverage**: Expandable to all Indian states and union territories
-- **Curriculum Integration**: Aligns with NCERT and state board syllabi
-- **Multi-Device Support**: Works on VR headsets, tablets, and smartphones
+- **Multi-Device Support**: Works on VR headsets
 
 ## 🛠️ Installation & Setup
 
